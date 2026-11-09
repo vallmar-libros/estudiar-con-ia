@@ -34,4 +34,4 @@ Instrucciones listas para copiar, casos y plantillas del libro. Edición de **no
 Comprueba su edad mínima y sus condiciones vigentes; el libro explica cómo usarlas con menores y qué no escribir nunca en un chat.
 
 ## Licencia
-Las instrucciones, casos y plantillas de este repositorio se publican con licencia CC BY 4.0 (puedes usarlas y adaptarlas citando la fuente; texto completo en [LICENSE.md](LICENSE.md)). El texto del libro no se incluye y sigue protegido.
+Las instrucciones, casos y plantillas de este repositorio se publican con licencia CC BY 4.0 (puedes usarlas y adaptarlas citando la fuente; texto legal completo en [LICENSE](LICENSE) y cómo citar en [AVISO.md](AVISO.md)). El texto del libro no se incluye y sigue protegido.

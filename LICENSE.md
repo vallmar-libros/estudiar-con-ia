@@ -1,1 +1,0 @@
-Las instrucciones, casos y plantillas de este repositorio: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/deed.es — Leo Vallmar, «Estudiar con IA sin hacer trampa» (https://github.com/vallmar-libros/estudiar-con-ia).
